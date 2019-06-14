@@ -3,7 +3,7 @@ SmartLock based on AT89C52 and periph
 Final Assignment of Shanghai Second Polytechnic University Embedded System Design Course  
 Please open the schematic with Proteus and source code with Keil C51  
 DO NOT violate MIT license when cloning this repo.  
-# Periphs included
+# Periphs included:
 * MCU
 > AT89C52
 * EEPROM 
@@ -27,6 +27,6 @@ Relay
 # Known Issues/Tips:
 * Keyboard may be laggy
 * Default password: 11111111
-# Contact Me
+# Contact Me:
 * If you encounter any bugs feel free to code review this project
 * Email:974629667@qq.com
